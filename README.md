@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hey, I'm Stawa
 
-<!--
-**Stawa/stawa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Stawa's Stats](https://github-readme-stats.vercel.app/api?username=stawa&show_icons=true&theme=tokyonight)
 
-Here are some ideas to get you started:
+![Stawa's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stawa&layout=donut&theme=tokyonight)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+I'm a student and self-taught developer. I'm interested in AI, web development, and API development.
+
+## 🌟 Current Projects
+
+[![GTTS](https://github-readme-stats.vercel.app/api/pin/?username=stawa&repo=gtts&theme=tokyonight)](https://github.com/stawa/gtts)
+
+## 🌐 My Websites
+
+1. [Vera AI](https://vera-ai.my.id) - A Tool That Serves To Help Blind People
+
+2. [Asram Wojak](https://asramwojak.my.id) - Join Asram Wojak's Minecraft server for fun adventures and a friendly community. Connect on Java or Bedrock!
+
+3. Coming Soon - Stay tuned for exciting new projects!
