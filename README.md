@@ -2,11 +2,9 @@
 
 ![Stawa's Stats](https://github-readme-stats.vercel.app/api?username=stawa&show_icons=true&theme=tokyonight)
 
-![Stawa's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stawa&layout=donut&theme=tokyonight)
-
 ## 🚀 About Me
 
-I'm a student and self-taught developer. I'm interested in AI, web development, and API development.
+I'm Stawa, a student and self-taught developer who's interested in AI, web development, and APIs. Right now, I'm studying into TypeScript to improve my skills and create better applications.
 
 ## 🌟 Current Projects
 
