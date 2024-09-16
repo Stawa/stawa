@@ -16,4 +16,6 @@ I'm Stawa, a student and self-taught developer who's interested in AI, web devel
 
 2. [Asram Wojak](https://asramwojak.my.id) - Join Asram Wojak's Minecraft server for fun adventures and a friendly community. Connect on Java or Bedrock!
 
-3. Coming Soon - Stay tuned for exciting new projects!
+3. [TriWikiTech](https://beta.triwikitech.my.id) - TriWikiTech is an interactive platform for learning programming languages, taking quizzes to test your knowledge, and using online compilers for hands-on coding practice.
+
+4. Coming Soon.
