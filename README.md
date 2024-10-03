@@ -8,7 +8,7 @@ I'm Stawa, a student and self-taught developer who's interested in AI, web devel
 
 ## 🌟 Current Projects
 
-[![GTTS](https://github-readme-stats.vercel.app/api/pin/?username=stawa&repo=gtts&theme=tokyonight)](https://github.com/stawa/gtts)
+[![GTTS](https://github-readme-stats.vercel.app/api/pin/?username=stawa&repo=triwikitech&theme=tokyonight)](https://github.com/stawa/triwikitech)
 
 ## 🌐 My Websites
 
