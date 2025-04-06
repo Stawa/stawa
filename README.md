@@ -1,21 +1,47 @@
-# 👋 Hey, I'm Stawa
-
-![Stawa's Stats](https://github-readme-stats.vercel.app/api?username=stawa&show_icons=true&theme=tokyonight)
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=6BCDFF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Stawa;Website+Developer;Autodidact+%26+Student;Always+Learning+Something+New" alt="Typing SVG" />
+</div>
 
 ## 🚀 About Me
 
-I'm Stawa, a student and self-taught developer who's interested in AI, web development, and APIs. Right now, I'm studying into TypeScript to improve my skills and create better applications.
+I'm Stawa, a website developer and autodidact student passionate about learning new technologies. I enjoy exploring AI, web development, and APIs while constantly challenging myself with new concepts and frameworks. Currently, I'm diving deep into TypeScript to enhance my skills and build more robust applications.
+
+<div>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+</div>
 
 ## 🌟 Current Projects
 
-[![GTTS](https://github-readme-stats.vercel.app/api/pin/?username=stawa&repo=triwikitech&theme=tokyonight)](https://github.com/stawa/triwikitech)
+<div>
+  <a href="https://github.com/stawa/VitalStrike">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=stawa&repo=VitalStrike&theme=tokyonight&border_radius=10&hide_border=true&bg_color=0D1117" alt="VitalStrike" />
+  </a>
+</div>
 
 ## 🌐 My Websites
 
-1. [Vera AI](https://vera-ai.my.id) - A Tool That Serves To Help Blind People
-
-2. [Asram Wojak](https://asramwojak.my.id) - Join Asram Wojak's Minecraft server for fun adventures and a friendly community. Connect on Java or Bedrock!
-
-3. [TriWikiTech](https://beta.triwikitech.my.id) - TriWikiTech is an interactive platform for learning programming languages, taking quizzes to test your knowledge, and using online compilers for hands-on coding practice.
-
-4. Coming Soon.
+<div>
+  <table>
+    <tr>
+      <td align="center">
+        <img width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java Icon"/>
+        <h3><a href="https://vera-ai.my.id">VitalStrike</a></h3>
+        <p>VitalStrike enhances Minecraft PvP with damage indicators, combo multipliers, knockdowns, and leaderboards!</p>
+      </td>
+      <td align="center">
+        <img width="50" src="https://img.icons8.com/color/48/000000/minecraft-pickaxe.png" alt="Minecraft Icon"/>
+        <h3><a href="https://asramwojak.my.id">Asram Wojak</a></h3>
+        <p>Join our Minecraft server for fun adventures and a friendly community</p>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img width="50" src="https://img.icons8.com/color/48/000000/code.png" alt="Code Icon"/>
+        <h3><a href="https://beta.triwikitech.my.id">TriWikiTech</a></h3>
+        <p>Interactive platform for learning programming languages</p>
+      </td>
+    </tr>
+  </table>
+</div>
