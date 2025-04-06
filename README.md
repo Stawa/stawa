@@ -9,7 +9,7 @@ I'm Stawa, a website developer and autodidact student passionate about learning 
 <div>
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Bun-000?style=for-the-badge&logo=bun&logoColor=white" alt="Node.js" />
 </div>
 
 ## 🌟 Current Projects
@@ -27,13 +27,13 @@ I'm Stawa, a website developer and autodidact student passionate about learning 
     <tr>
       <td align="center">
         <img width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java Icon"/>
-        <h3><a href="https://vera-ai.my.id">VitalStrike</a></h3>
-        <p>VitalStrike enhances Minecraft PvP with damage indicators, combo multipliers, knockdowns, and leaderboards!</p>
+        <h3><a href="https://vitalstrike.vercel.app/">VitalStrike</a></h3>
+        <p>A feature-rich Minecraft PvP bukkit plugin!</p>
       </td>
       <td align="center">
         <img width="50" src="https://img.icons8.com/color/48/000000/minecraft-pickaxe.png" alt="Minecraft Icon"/>
         <h3><a href="https://asramwojak.my.id">Asram Wojak</a></h3>
-        <p>Join our Minecraft server for fun adventures and a friendly community</p>
+        <p>Join our friendly Minecraft community!</p>
       </td>
     </tr>
     <tr>
@@ -41,6 +41,11 @@ I'm Stawa, a website developer and autodidact student passionate about learning 
         <img width="50" src="https://img.icons8.com/color/48/000000/code.png" alt="Code Icon"/>
         <h3><a href="https://beta.triwikitech.my.id">TriWikiTech</a></h3>
         <p>Interactive platform for learning programming languages</p>
+      </td>
+      <td align="center">
+        <img width="50" src="https://img.icons8.com/color/48/000000/coming-soon.png" alt="Coming Soon Icon"/>
+        <h3>Coming Soon</h3>
+        <p>Stay tuned for my next exciting project!</p>
       </td>
     </tr>
   </table>
